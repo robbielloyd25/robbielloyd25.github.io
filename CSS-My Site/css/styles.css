@@ -1,0 +1,95 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #C36839;
+  color: white;
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  margin: 0;
+  }
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+  background-color: #7EB5A6;
+  position: relative;
+  padding-top: 100px;
+}
+.pro{
+  text-decoration: underline;
+}
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+left: 300px;
+bottom: 300px;
+}
+.advertising-pic{
+  height: 100px;
+  filter: invert();
+}
+.web-dev-pic{
+  height: 100px;
+  filter: invert();
+}
+.contact-me{
+  display: inline-block;
+}
+.contact-pic{
+  height: 100px;
+  filter: invert();
+  }
+.footer-link{
+  margin: 0;
+}
+.phone{
+  margin: 0;
+}
+.telephone-pic{
+  position: relative;
+  top: 5px;
+  right: 3px;
+  height: 20px;
+  filter: invert();
+}
+.website-pic{
+  position: relative;
+  top: 5px;
+  right: 7px;
+  height: 20px;
+  filter: invert();
+}
+.email-pic{
+  position: relative;
+  top: 5px;
+  right: 15px;
+  height: 20px;
+  filter: invert();
+}
+.copyright{
+  position: relative;
+  top: 10px;
+}
+.btn{
+  color: white;
+}
+.footer-link{
+  color: white;
+}
+.telephone-link{
+  color: white;
+}
